@@ -1,0 +1,18 @@
+[2026-02-07--18-43-16 INFO actix_server::builder] starting 5 workers
+[2026-02-07--18-43-16 INFO actix_server::server] Tokio runtime found; starting in existing Tokio runtime
+[2026-02-07--18-43-16 INFO actix_server::server] starting service: "actix-web-service-127.0.0.1:18488", workers: 5, listening on: 127.0.0.1:18488
+[2026-02-07--18-43-21 INFO parity_ws] Listening for new connections on 127.0.0.1:8900.
+[2026-02-07--18-43-40 INFO txtx::svm::deploy_program] [Recovery Instructions] - An ephemeral authority account will be created and funded to write to the buffer account.
+[2026-02-07--18-43-40 INFO txtx::svm::deploy_program] [Recovery Instructions] - Please save the following information in case the deployment fails and the account needs to be recovered:
+[2026-02-07--18-43-40 INFO txtx::svm::deploy_program] [Recovery Instructions] - Ephemeral authority public key: BFRS6inURGvnXLEPweRzwrSXcGwoteF1EuQrf717tjy2
+[2026-02-07--18-43-40 INFO txtx::svm::deploy_program] [Recovery Instructions] - Ephemeral authority secret key: [84, 133, 67, 59, 244, 220, 234, 71, 153, 62, 136, 235, 92, 44, 121, 195, 165, 187, 192, 223, 161, 64, 107, 51, 137, 39, 235, 17, 51, 178, 151, 176, 152, 70, 160, 116, 34, 103, 135, 64, 75, 253, 223, 42, 88, 78, 227, 2, 195, 203, 108, 135, 17, 184, 68, 38, 37, 218, 192, 53, 120, 205, 236, 113]
+[2026-02-07--18-43-47 INFO txtx::svm::deploy_program] Account Created - Ephemeral authority account created and funded to write to buffer
+[2026-02-07--18-43-47 INFO txtx::svm::deploy_program] [Recovery Instructions] - Creating program buffer account at pubkey CaN3vZeLtbJU9tU6WhSoRDkR5C9hiEutBtmmH4NYLBXT
+[2026-02-07--18-43-48 INFO txtx::svm::deploy_program] Account Created - Program buffer account created
+[2026-02-07--18-43-56 INFO txtx::svm::deploy_program] Buffer Ready - Writing to buffer account is complete
+[2026-02-07--18-43-59 INFO actix_server::accept] accept thread stopped
+[2026-02-07--18-43-59 INFO actix_server::worker] shutting down idle worker
+[2026-02-07--18-43-59 INFO actix_server::worker] shutting down idle worker
+[2026-02-07--18-43-59 INFO actix_server::worker] shutting down idle worker
+[2026-02-07--18-43-59 INFO actix_server::worker] shutting down idle worker
+[2026-02-07--18-43-59 INFO actix_server::worker] shutting down idle worker
